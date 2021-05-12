@@ -1,0 +1,4 @@
+HEIGHT = 840
+WIDTH = 600
+VEL_Y = 10
+VEL_X = 10
